@@ -1,2 +1,6 @@
 # Machine-Learning Project
-This project is 
+Group 5: Intel Image Classification
+- Nguyen Quy Duc
+- Le Dinh Nam
+- Ngo Chi Lan
+- Vinh Bao Tuan
